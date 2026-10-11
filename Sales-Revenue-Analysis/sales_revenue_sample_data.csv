@@ -1,0 +1,501 @@
+Order ID,Order Date,Year,Month,Month-Year,Region,Category,Product,Customer Segment,Sales Channel,Quantity,Unit Price,Discount,Revenue,Cost,Profit,Profit Margin
+ORD-0409,2025-01-01,2025,Jan,2025-01,North,Office Supplies,Paper,Small Business,Partner,4,51.52,0.2,164.86,120.82,44.04,0.2671
+ORD-0154,2025-01-04,2025,Jan,2025-01,West,Office Supplies,Paper,Corporate,Retail,9,39.01,0.0,351.09,221.63,129.46,0.3687
+ORD-0385,2025-01-06,2025,Jan,2025-01,South,Furniture,Filing Cabinet,Corporate,Online,8,102.88,0.0,823.04,558.35,264.69,0.3216
+ORD-0038,2025-01-07,2025,Jan,2025-01,West,Office Supplies,Paper,Small Business,Partner,7,64.79,0.0,453.53,259.15,194.38,0.4286
+ORD-0369,2025-01-09,2025,Jan,2025-01,East,Technology,Headphones,Small Business,Retail,6,788.71,0.2,3785.81,3110.54,675.27,0.1784
+ORD-0290,2025-01-10,2025,Jan,2025-01,West,Technology,Keyboard,Corporate,Online,10,279.94,0.1,2519.46,2136.46,383.0,0.152
+ORD-0243,2025-01-13,2025,Jan,2025-01,West,Office Supplies,Folders,Consumer,Online,10,75.41,0.0,754.1,393.28,360.82,0.4785
+ORD-0354,2025-01-14,2025,Jan,2025-01,West,Office Supplies,Pen Set,Small Business,Partner,8,46.41,0.1,334.15,172.49,161.66,0.4838
+ORD-0146,2025-01-15,2025,Jan,2025-01,South,Office Supplies,Paper,Small Business,Online,7,10.59,0.2,59.3,42.21,17.09,0.2882
+ORD-0048,2025-01-18,2025,Jan,2025-01,West,Technology,Monitor,Consumer,Retail,10,382.6,0.2,3060.8,2640.24,420.56,0.1374
+ORD-0371,2025-01-19,2025,Jan,2025-01,East,Furniture,Bookshelf,Consumer,Retail,9,93.49,0.1,757.27,665.66,91.61,0.121
+ORD-0275,2025-01-19,2025,Jan,2025-01,North,Technology,Mouse,Consumer,Retail,2,729.26,0.15,1239.74,1009.98,229.76,0.1853
+ORD-0225,2025-01-20,2025,Jan,2025-01,East,Office Supplies,Markers,Small Business,Online,6,33.52,0.0,201.12,91.98,109.14,0.5427
+ORD-0473,2025-01-20,2025,Jan,2025-01,North,Office Supplies,Stapler,Consumer,Online,11,13.04,0.05,136.27,64.92,71.35,0.5236
+ORD-0264,2025-01-21,2025,Jan,2025-01,West,Technology,Laptop,Consumer,Online,5,469.0,0.2,1876.0,1364.46,511.54,0.2727
+ORD-0496,2025-01-21,2025,Jan,2025-01,East,Technology,Laptop,Small Business,Retail,7,815.35,0.1,5136.7,4386.93,749.77,0.146
+ORD-0488,2025-01-21,2025,Jan,2025-01,West,Furniture,Office Chair,Consumer,Retail,9,203.97,0.15,1560.37,1260.17,300.2,0.1924
+ORD-0263,2025-01-23,2025,Jan,2025-01,North,Furniture,Desk,Corporate,Online,1,405.77,0.15,344.9,336.34,8.56,0.0248
+ORD-0076,2025-01-26,2025,Jan,2025-01,East,Furniture,Table,Consumer,Partner,2,310.7,0.2,497.12,403.51,93.61,0.1883
+ORD-0465,2025-01-28,2025,Jan,2025-01,East,Office Supplies,Pen Set,Corporate,Online,11,71.84,0.1,711.22,482.99,228.23,0.3209
+ORD-0002,2025-01-28,2025,Jan,2025-01,West,Furniture,Table,Corporate,Online,1,146.22,0.05,138.91,120.05,18.86,0.1358
+ORD-0472,2025-01-30,2025,Jan,2025-01,South,Office Supplies,Notebook,Corporate,Online,12,13.9,0.0,166.8,79.72,87.08,0.5221
+ORD-0466,2025-01-30,2025,Jan,2025-01,West,Technology,Keyboard,Consumer,Partner,12,376.64,0.05,4293.7,3189.08,1104.62,0.2573
+ORD-0127,2025-01-30,2025,Jan,2025-01,East,Technology,Headphones,Corporate,Retail,7,586.85,0.15,3491.76,2620.6,871.16,0.2495
+ORD-0236,2025-02-01,2025,Feb,2025-02,West,Furniture,Desk,Consumer,Online,4,281.01,0.2,899.23,852.84,46.39,0.0516
+ORD-0170,2025-02-03,2025,Feb,2025-02,North,Technology,Keyboard,Corporate,Partner,12,753.14,0.15,7682.03,5676.52,2005.51,0.2611
+ORD-0232,2025-02-03,2025,Feb,2025-02,South,Technology,Keyboard,Consumer,Retail,8,195.33,0.05,1484.51,958.8,525.71,0.3541
+ORD-0241,2025-02-05,2025,Feb,2025-02,South,Furniture,Table,Corporate,Online,3,150.27,0.0,450.81,319.58,131.23,0.2911
+ORD-0320,2025-02-06,2025,Feb,2025-02,South,Furniture,Office Chair,Consumer,Online,7,273.38,0.15,1626.61,1469.23,157.38,0.0968
+ORD-0413,2025-02-08,2025,Feb,2025-02,North,Furniture,Bookshelf,Small Business,Retail,2,454.9,0.05,864.31,579.02,285.29,0.3301
+ORD-0268,2025-02-10,2025,Feb,2025-02,East,Office Supplies,Paper,Consumer,Online,1,53.19,0.05,50.53,32.2,18.33,0.3628
+ORD-0192,2025-02-12,2025,Feb,2025-02,South,Office Supplies,Stapler,Consumer,Partner,11,79.95,0.1,791.51,414.88,376.63,0.4758
+ORD-0313,2025-02-14,2025,Feb,2025-02,South,Office Supplies,Stapler,Corporate,Partner,7,73.0,0.2,408.8,262.46,146.34,0.358
+ORD-0156,2025-02-15,2025,Feb,2025-02,South,Furniture,Desk,Small Business,Retail,3,216.2,0.2,518.88,480.79,38.09,0.0734
+ORD-0033,2025-02-17,2025,Feb,2025-02,North,Technology,Mouse,Small Business,Online,10,239.44,0.0,2394.4,1459.42,934.98,0.3905
+ORD-0380,2025-02-20,2025,Feb,2025-02,West,Technology,Mouse,Small Business,Partner,5,458.3,0.0,2291.5,1645.28,646.22,0.282
+ORD-0384,2025-02-22,2025,Feb,2025-02,West,Furniture,Bookshelf,Consumer,Online,3,61.91,0.0,185.73,148.52,37.21,0.2003
+ORD-0052,2025-02-24,2025,Feb,2025-02,East,Technology,Printer,Consumer,Online,9,706.84,0.0,6361.56,4676.63,1684.93,0.2649
+ORD-0482,2025-02-24,2025,Feb,2025-02,North,Office Supplies,Stapler,Consumer,Partner,11,51.37,0.0,565.07,323.81,241.26,0.427
+ORD-0451,2025-02-25,2025,Feb,2025-02,West,Technology,Keyboard,Corporate,Retail,2,465.53,0.05,884.51,624.18,260.33,0.2943
+ORD-0500,2025-02-25,2025,Feb,2025-02,South,Office Supplies,Markers,Consumer,Online,11,65.73,0.0,723.03,405.33,317.7,0.4394
+ORD-0449,2025-02-26,2025,Feb,2025-02,North,Furniture,Bookshelf,Consumer,Online,10,257.87,0.2,2062.96,1982.92,80.04,0.0388
+ORD-0006,2025-02-27,2025,Feb,2025-02,East,Technology,Laptop,Consumer,Online,10,798.62,0.1,7187.58,6045.05,1142.53,0.159
+ORD-0248,2025-03-01,2025,Mar,2025-03,North,Technology,Mouse,Corporate,Partner,5,382.05,0.0,1910.25,1368.19,542.06,0.2838
+ORD-0270,2025-03-02,2025,Mar,2025-03,North,Office Supplies,Pen Set,Corporate,Online,10,32.86,0.05,312.17,220.16,92.01,0.2947
+ORD-0194,2025-03-02,2025,Mar,2025-03,East,Furniture,Table,Consumer,Retail,12,369.28,0.15,3766.66,3379.59,387.07,0.1028
+ORD-0284,2025-03-05,2025,Mar,2025-03,South,Office Supplies,Paper,Consumer,Retail,8,60.2,0.0,481.6,245.33,236.27,0.4906
+ORD-0253,2025-03-07,2025,Mar,2025-03,East,Technology,Keyboard,Consumer,Partner,12,860.79,0.15,8780.06,7572.49,1207.57,0.1375
+ORD-0152,2025-03-07,2025,Mar,2025-03,North,Furniture,Office Chair,Corporate,Partner,5,475.24,0.2,1900.96,1683.01,217.95,0.1147
+ORD-0037,2025-03-07,2025,Mar,2025-03,West,Furniture,Bookshelf,Consumer,Online,7,475.69,0.0,3329.83,2599.85,729.98,0.2192
+ORD-0452,2025-03-09,2025,Mar,2025-03,North,Technology,Mouse,Small Business,Online,5,865.77,0.0,4328.85,3114.25,1214.6,0.2806
+ORD-0342,2025-03-12,2025,Mar,2025-03,North,Technology,Keyboard,Corporate,Retail,5,654.39,0.0,3271.95,1930.21,1341.74,0.4101
+ORD-0448,2025-03-14,2025,Mar,2025-03,North,Furniture,Bookshelf,Corporate,Online,12,352.91,0.2,3387.94,3409.02,-21.08,-0.0062
+ORD-0293,2025-03-15,2025,Mar,2025-03,North,Office Supplies,Pen Set,Consumer,Online,2,23.15,0.0,46.3,23.83,22.47,0.4853
+ORD-0054,2025-03-18,2025,Mar,2025-03,West,Technology,Mouse,Corporate,Retail,1,269.81,0.1,242.83,160.33,82.5,0.3397
+ORD-0118,2025-03-18,2025,Mar,2025-03,East,Office Supplies,Stapler,Corporate,Retail,3,50.18,0.1,135.49,97.04,38.45,0.2838
+ORD-0165,2025-03-18,2025,Mar,2025-03,North,Office Supplies,Markers,Consumer,Retail,11,4.69,0.15,43.85,31.44,12.41,0.283
+ORD-0302,2025-03-19,2025,Mar,2025-03,North,Office Supplies,Folders,Corporate,Partner,10,23.81,0.15,202.38,128.92,73.46,0.363
+ORD-0490,2025-03-19,2025,Mar,2025-03,South,Office Supplies,Folders,Consumer,Online,10,60.46,0.0,604.6,361.53,243.07,0.402
+ORD-0471,2025-03-20,2025,Mar,2025-03,North,Technology,Monitor,Consumer,Online,6,193.99,0.15,989.35,852.84,136.51,0.138
+ORD-0222,2025-03-28,2025,Mar,2025-03,North,Furniture,Bookshelf,Consumer,Online,11,129.55,0.05,1353.8,1165.52,188.28,0.1391
+ORD-0217,2025-03-28,2025,Mar,2025-03,South,Furniture,Table,Consumer,Retail,10,294.89,0.0,2948.9,2355.26,593.64,0.2013
+ORD-0414,2025-04-01,2025,Apr,2025-04,North,Technology,Headphones,Corporate,Retail,10,336.25,0.0,3362.5,2265.56,1096.94,0.3262
+ORD-0429,2025-04-03,2025,Apr,2025-04,North,Furniture,Bookshelf,Corporate,Partner,5,155.37,0.1,699.17,530.4,168.77,0.2414
+ORD-0318,2025-04-04,2025,Apr,2025-04,West,Office Supplies,Stapler,Consumer,Online,6,33.21,0.1,179.33,125.12,54.21,0.3023
+ORD-0003,2025-04-05,2025,Apr,2025-04,East,Furniture,Bookshelf,Small Business,Retail,12,127.41,0.0,1528.92,1214.23,314.69,0.2058
+ORD-0197,2025-04-06,2025,Apr,2025-04,East,Office Supplies,Stapler,Small Business,Partner,7,20.1,0.05,133.67,82.57,51.1,0.3823
+ORD-0269,2025-04-06,2025,Apr,2025-04,South,Furniture,Bookshelf,Consumer,Online,8,268.29,0.1,1931.69,1689.91,241.78,0.1252
+ORD-0237,2025-04-09,2025,Apr,2025-04,West,Technology,Printer,Consumer,Online,7,151.86,0.1,956.72,659.0,297.72,0.3112
+ORD-0474,2025-04-09,2025,Apr,2025-04,South,Office Supplies,Folders,Consumer,Retail,11,68.29,0.05,713.63,368.19,345.44,0.4841
+ORD-0406,2025-04-10,2025,Apr,2025-04,East,Office Supplies,Pen Set,Consumer,Partner,2,66.31,0.05,125.99,62.68,63.31,0.5025
+ORD-0397,2025-04-11,2025,Apr,2025-04,South,Office Supplies,Folders,Consumer,Online,7,4.31,0.0,30.17,14.23,15.94,0.5283
+ORD-0015,2025-04-11,2025,Apr,2025-04,East,Technology,Headphones,Consumer,Partner,4,235.97,0.05,896.69,634.78,261.91,0.2921
+ORD-0370,2025-04-12,2025,Apr,2025-04,North,Office Supplies,Stapler,Corporate,Online,8,7.02,0.15,47.74,35.72,12.02,0.2518
+ORD-0476,2025-04-12,2025,Apr,2025-04,West,Office Supplies,Folders,Corporate,Online,8,67.44,0.1,485.57,297.76,187.81,0.3868
+ORD-0050,2025-04-13,2025,Apr,2025-04,South,Office Supplies,Paper,Consumer,Online,12,78.05,0.15,796.11,570.83,225.28,0.283
+ORD-0230,2025-04-14,2025,Apr,2025-04,South,Technology,Keyboard,Corporate,Partner,7,729.31,0.0,5105.17,3683.06,1422.11,0.2786
+ORD-0343,2025-04-15,2025,Apr,2025-04,West,Technology,Monitor,Consumer,Retail,3,92.07,0.1,248.59,215.33,33.26,0.1338
+ORD-0336,2025-04-16,2025,Apr,2025-04,North,Technology,Mouse,Consumer,Online,2,165.22,0.1,297.4,212.1,85.3,0.2868
+ORD-0280,2025-04-17,2025,Apr,2025-04,East,Furniture,Table,Consumer,Retail,10,471.68,0.05,4480.96,3372.97,1107.99,0.2473
+ORD-0022,2025-04-17,2025,Apr,2025-04,East,Office Supplies,Pen Set,Consumer,Online,9,20.01,0.05,171.09,92.93,78.16,0.4568
+ORD-0479,2025-04-18,2025,Apr,2025-04,North,Furniture,Table,Consumer,Online,12,114.93,0.0,1379.16,1137.52,241.64,0.1752
+ORD-0430,2025-04-20,2025,Apr,2025-04,West,Office Supplies,Paper,Corporate,Online,12,5.93,0.15,60.49,46.12,14.37,0.2376
+ORD-0404,2025-04-20,2025,Apr,2025-04,North,Technology,Headphones,Corporate,Retail,7,564.24,0.0,3949.68,3060.13,889.55,0.2252
+ORD-0034,2025-04-20,2025,Apr,2025-04,South,Office Supplies,Pen Set,Corporate,Partner,8,68.47,0.1,492.98,319.23,173.75,0.3524
+ORD-0177,2025-04-20,2025,Apr,2025-04,West,Technology,Laptop,Corporate,Online,6,440.98,0.2,2116.7,2050.15,66.55,0.0314
+ORD-0137,2025-04-23,2025,Apr,2025-04,East,Technology,Mouse,Consumer,Online,4,416.51,0.2,1332.83,1208.68,124.15,0.0931
+ORD-0441,2025-04-23,2025,Apr,2025-04,South,Technology,Laptop,Small Business,Retail,7,810.92,0.0,5676.44,4303.3,1373.14,0.2419
+ORD-0110,2025-04-24,2025,Apr,2025-04,East,Office Supplies,Pen Set,Consumer,Online,11,12.43,0.1,123.06,79.15,43.91,0.3568
+ORD-0417,2025-04-25,2025,Apr,2025-04,South,Furniture,Table,Consumer,Retail,3,438.42,0.15,1117.97,910.16,207.81,0.1859
+ORD-0497,2025-04-25,2025,Apr,2025-04,North,Furniture,Table,Small Business,Retail,9,537.67,0.0,4839.03,3318.69,1520.34,0.3142
+ORD-0001,2025-04-25,2025,Apr,2025-04,South,Technology,Keyboard,Corporate,Online,11,687.35,0.0,7560.85,4430.35,3130.5,0.414
+ORD-0499,2025-04-26,2025,Apr,2025-04,West,Technology,Mouse,Small Business,Retail,3,377.66,0.0,1132.98,803.37,329.61,0.2909
+ORD-0155,2025-04-26,2025,Apr,2025-04,West,Technology,Headphones,Small Business,Retail,1,277.35,0.1,249.62,194.02,55.6,0.2227
+ORD-0179,2025-04-27,2025,Apr,2025-04,South,Office Supplies,Pen Set,Corporate,Retail,12,37.32,0.05,425.45,296.45,129.0,0.3032
+ORD-0120,2025-04-27,2025,Apr,2025-04,West,Technology,Monitor,Small Business,Retail,2,294.66,0.15,500.92,375.46,125.46,0.2505
+ORD-0042,2025-04-28,2025,Apr,2025-04,West,Furniture,Desk,Corporate,Retail,3,580.42,0.0,1741.26,1119.11,622.15,0.3573
+ORD-0193,2025-05-01,2025,May,2025-05,South,Office Supplies,Pen Set,Corporate,Partner,6,36.54,0.15,186.35,110.0,76.35,0.4097
+ORD-0438,2025-05-01,2025,May,2025-05,East,Office Supplies,Notebook,Small Business,Partner,9,54.11,0.05,462.64,237.31,225.33,0.4871
+ORD-0210,2025-05-01,2025,May,2025-05,East,Office Supplies,Notebook,Consumer,Partner,2,51.69,0.1,93.04,59.43,33.61,0.3612
+ORD-0133,2025-05-02,2025,May,2025-05,West,Technology,Laptop,Small Business,Online,9,849.94,0.15,6502.04,5050.77,1451.27,0.2232
+ORD-0317,2025-05-02,2025,May,2025-05,South,Office Supplies,Stapler,Corporate,Online,6,56.03,0.0,336.18,151.73,184.45,0.5487
+ORD-0467,2025-05-03,2025,May,2025-05,North,Furniture,Table,Consumer,Partner,1,308.96,0.05,293.51,209.25,84.26,0.2871
+ORD-0326,2025-05-03,2025,May,2025-05,West,Office Supplies,Markers,Corporate,Retail,9,32.21,0.05,275.4,195.46,79.94,0.2903
+ORD-0019,2025-05-03,2025,May,2025-05,South,Office Supplies,Folders,Consumer,Retail,2,43.73,0.05,83.09,44.58,38.51,0.4635
+ORD-0362,2025-05-04,2025,May,2025-05,North,Office Supplies,Pen Set,Corporate,Retail,1,45.03,0.0,45.03,21.99,23.04,0.5117
+ORD-0201,2025-05-04,2025,May,2025-05,South,Office Supplies,Stapler,Consumer,Online,2,27.81,0.05,52.84,35.5,17.34,0.3282
+ORD-0435,2025-05-04,2025,May,2025-05,South,Technology,Mouse,Corporate,Retail,8,279.79,0.2,1790.66,1572.39,218.27,0.1219
+ORD-0087,2025-05-06,2025,May,2025-05,North,Furniture,Filing Cabinet,Corporate,Partner,6,334.0,0.1,1803.6,1288.02,515.58,0.2859
+ORD-0121,2025-05-06,2025,May,2025-05,West,Technology,Laptop,Corporate,Online,2,744.62,0.2,1191.39,967.24,224.15,0.1881
+ORD-0126,2025-05-09,2025,May,2025-05,North,Office Supplies,Folders,Consumer,Retail,10,58.77,0.15,499.55,270.52,229.03,0.4585
+ORD-0337,2025-05-10,2025,May,2025-05,North,Technology,Monitor,Consumer,Online,6,788.68,0.05,4495.48,3263.76,1231.72,0.274
+ORD-0084,2025-05-10,2025,May,2025-05,East,Technology,Headphones,Corporate,Online,5,452.05,0.2,1808.2,1362.67,445.53,0.2464
+ORD-0271,2025-05-14,2025,May,2025-05,North,Furniture,Filing Cabinet,Consumer,Partner,2,229.69,0.2,367.5,356.55,10.95,0.0298
+ORD-0198,2025-05-14,2025,May,2025-05,East,Furniture,Filing Cabinet,Corporate,Partner,1,483.3,0.0,483.3,315.68,167.62,0.3468
+ORD-0151,2025-05-16,2025,May,2025-05,North,Furniture,Filing Cabinet,Corporate,Retail,5,273.81,0.2,1095.24,869.81,225.43,0.2058
+ORD-0282,2025-05-16,2025,May,2025-05,South,Office Supplies,Markers,Corporate,Retail,6,46.73,0.15,238.32,155.43,82.89,0.3478
+ORD-0014,2025-05-16,2025,May,2025-05,West,Office Supplies,Folders,Corporate,Online,7,36.76,0.1,231.59,119.28,112.31,0.485
+ORD-0455,2025-05-16,2025,May,2025-05,South,Office Supplies,Paper,Consumer,Retail,6,7.6,0.05,43.32,27.57,15.75,0.3636
+ORD-0202,2025-05-17,2025,May,2025-05,South,Office Supplies,Markers,Corporate,Online,10,58.9,0.2,471.2,355.77,115.43,0.245
+ORD-0374,2025-05-19,2025,May,2025-05,South,Furniture,Desk,Corporate,Online,12,231.5,0.2,2222.4,1908.28,314.12,0.1413
+ORD-0040,2025-05-19,2025,May,2025-05,North,Office Supplies,Pen Set,Consumer,Online,8,32.81,0.1,236.23,119.39,116.84,0.4946
+ORD-0109,2025-05-21,2025,May,2025-05,South,Technology,Mouse,Corporate,Retail,10,84.31,0.0,843.1,581.54,261.56,0.3102
+ORD-0007,2025-05-23,2025,May,2025-05,East,Technology,Printer,Consumer,Retail,10,407.51,0.15,3463.84,2765.78,698.06,0.2015
+ORD-0407,2025-05-23,2025,May,2025-05,North,Office Supplies,Markers,Corporate,Retail,8,47.92,0.0,383.36,201.24,182.12,0.4751
+ORD-0159,2025-05-28,2025,May,2025-05,West,Office Supplies,Notebook,Corporate,Partner,3,29.1,0.0,87.3,41.3,46.0,0.5269
+ORD-0458,2025-05-29,2025,May,2025-05,South,Office Supplies,Paper,Corporate,Online,9,40.02,0.05,342.17,251.59,90.58,0.2647
+ORD-0418,2025-05-29,2025,May,2025-05,West,Furniture,Desk,Consumer,Retail,7,297.7,0.0,2083.9,1660.42,423.48,0.2032
+ORD-0420,2025-05-29,2025,May,2025-05,North,Furniture,Filing Cabinet,Small Business,Online,7,579.35,0.0,4055.45,2966.85,1088.6,0.2684
+ORD-0163,2025-05-30,2025,May,2025-05,West,Technology,Printer,Consumer,Online,4,391.47,0.2,1252.7,1203.68,49.02,0.0391
+ORD-0459,2025-05-31,2025,May,2025-05,West,Office Supplies,Markers,Consumer,Online,8,45.87,0.05,348.61,185.35,163.26,0.4683
+ORD-0367,2025-06-01,2025,Jun,2025-06,North,Office Supplies,Paper,Small Business,Online,5,19.88,0.15,84.49,63.38,21.11,0.2499
+ORD-0096,2025-06-01,2025,Jun,2025-06,East,Technology,Monitor,Corporate,Online,11,141.79,0.1,1403.72,1139.96,263.76,0.1879
+ORD-0183,2025-06-04,2025,Jun,2025-06,West,Furniture,Office Chair,Consumer,Online,2,567.97,0.05,1079.14,891.37,187.77,0.174
+ORD-0065,2025-06-05,2025,Jun,2025-06,South,Furniture,Office Chair,Corporate,Retail,2,297.77,0.1,535.99,387.26,148.73,0.2775
+ORD-0008,2025-06-06,2025,Jun,2025-06,West,Office Supplies,Markers,Consumer,Retail,10,77.8,0.0,778.0,522.19,255.81,0.3288
+ORD-0086,2025-06-06,2025,Jun,2025-06,North,Office Supplies,Stapler,Consumer,Online,7,65.69,0.15,390.86,271.49,119.37,0.3054
+ORD-0066,2025-06-08,2025,Jun,2025-06,East,Technology,Keyboard,Consumer,Retail,2,778.45,0.1,1401.21,1200.1,201.11,0.1435
+ORD-0130,2025-06-13,2025,Jun,2025-06,East,Office Supplies,Folders,Consumer,Online,9,41.8,0.0,376.2,260.21,115.99,0.3083
+ORD-0304,2025-06-13,2025,Jun,2025-06,South,Technology,Printer,Corporate,Retail,6,113.14,0.05,644.9,443.88,201.02,0.3117
+ORD-0456,2025-06-14,2025,Jun,2025-06,South,Office Supplies,Paper,Small Business,Partner,12,16.26,0.0,195.12,93.97,101.15,0.5184
+ORD-0068,2025-06-20,2025,Jun,2025-06,North,Office Supplies,Notebook,Consumer,Online,6,44.37,0.15,226.29,131.45,94.84,0.4191
+ORD-0309,2025-06-20,2025,Jun,2025-06,West,Technology,Monitor,Corporate,Retail,1,800.38,0.0,800.38,498.89,301.49,0.3767
+ORD-0433,2025-06-26,2025,Jun,2025-06,North,Office Supplies,Paper,Consumer,Online,10,12.68,0.15,107.78,82.56,25.22,0.234
+ORD-0410,2025-06-27,2025,Jun,2025-06,West,Furniture,Desk,Consumer,Partner,7,598.63,0.0,4190.41,3168.63,1021.78,0.2438
+ORD-0361,2025-06-27,2025,Jun,2025-06,North,Furniture,Table,Consumer,Retail,12,266.03,0.05,3032.74,2527.07,505.67,0.1667
+ORD-0287,2025-06-27,2025,Jun,2025-06,West,Office Supplies,Notebook,Consumer,Online,5,23.38,0.05,111.05,53.77,57.28,0.5158
+ORD-0328,2025-06-28,2025,Jun,2025-06,West,Furniture,Office Chair,Consumer,Online,11,373.74,0.15,3494.47,2710.48,783.99,0.2244
+ORD-0209,2025-06-29,2025,Jun,2025-06,South,Technology,Headphones,Consumer,Retail,6,508.86,0.0,3053.16,1997.91,1055.25,0.3456
+ORD-0464,2025-06-29,2025,Jun,2025-06,South,Furniture,Table,Small Business,Online,5,82.81,0.15,351.94,305.34,46.6,0.1324
+ORD-0144,2025-06-30,2025,Jun,2025-06,West,Office Supplies,Notebook,Consumer,Retail,12,70.63,0.0,847.56,578.13,269.43,0.3179
+ORD-0440,2025-06-30,2025,Jun,2025-06,West,Technology,Laptop,Consumer,Retail,4,671.55,0.0,2686.2,1959.36,726.84,0.2706
+ORD-0259,2025-07-01,2025,Jul,2025-07,North,Technology,Laptop,Consumer,Online,3,552.55,0.0,1657.65,1004.34,653.31,0.3941
+ORD-0167,2025-07-03,2025,Jul,2025-07,South,Technology,Laptop,Corporate,Online,5,748.48,0.05,3555.28,2888.61,666.67,0.1875
+ORD-0103,2025-07-04,2025,Jul,2025-07,West,Office Supplies,Paper,Small Business,Online,3,11.69,0.15,29.81,16.11,13.7,0.4596
+ORD-0228,2025-07-12,2025,Jul,2025-07,East,Office Supplies,Stapler,Consumer,Online,1,44.01,0.0,44.01,28.68,15.33,0.3483
+ORD-0352,2025-07-14,2025,Jul,2025-07,South,Furniture,Filing Cabinet,Consumer,Retail,11,111.98,0.0,1231.78,797.27,434.51,0.3527
+ORD-0161,2025-07-14,2025,Jul,2025-07,West,Office Supplies,Notebook,Corporate,Partner,12,45.96,0.05,523.94,297.72,226.22,0.4318
+ORD-0160,2025-07-15,2025,Jul,2025-07,North,Technology,Mouse,Consumer,Partner,10,673.93,0.05,6402.33,4317.45,2084.88,0.3256
+ORD-0031,2025-07-16,2025,Jul,2025-07,South,Furniture,Filing Cabinet,Consumer,Retail,9,224.09,0.15,1714.29,1386.9,327.39,0.191
+ORD-0377,2025-07-17,2025,Jul,2025-07,North,Technology,Mouse,Small Business,Partner,4,688.74,0.0,2754.96,1695.45,1059.51,0.3846
+ORD-0461,2025-07-19,2025,Jul,2025-07,North,Furniture,Table,Consumer,Partner,3,290.93,0.0,872.79,605.53,267.26,0.3062
+ORD-0215,2025-07-20,2025,Jul,2025-07,South,Office Supplies,Folders,Small Business,Online,1,67.81,0.0,67.81,41.66,26.15,0.3856
+ORD-0030,2025-07-21,2025,Jul,2025-07,East,Furniture,Office Chair,Corporate,Retail,2,222.17,0.1,399.91,340.55,59.36,0.1484
+ORD-0187,2025-07-21,2025,Jul,2025-07,West,Furniture,Bookshelf,Corporate,Retail,10,271.97,0.05,2583.72,2038.81,544.91,0.2109
+ORD-0186,2025-07-22,2025,Jul,2025-07,West,Furniture,Filing Cabinet,Consumer,Online,5,496.71,0.0,2483.55,1819.81,663.74,0.2673
+ORD-0178,2025-07-25,2025,Jul,2025-07,West,Furniture,Desk,Consumer,Partner,12,582.59,0.05,6641.53,5533.19,1108.34,0.1669
+ORD-0353,2025-07-26,2025,Jul,2025-07,North,Technology,Monitor,Corporate,Online,7,619.5,0.05,4119.68,2557.74,1561.94,0.3791
+ORD-0396,2025-07-26,2025,Jul,2025-07,North,Office Supplies,Stapler,Small Business,Retail,3,59.67,0.15,152.16,114.99,37.17,0.2443
+ORD-0382,2025-07-26,2025,Jul,2025-07,East,Office Supplies,Notebook,Corporate,Online,12,13.39,0.0,160.68,75.73,84.95,0.5287
+ORD-0316,2025-07-28,2025,Jul,2025-07,West,Furniture,Table,Corporate,Online,8,225.59,0.2,1443.78,1171.25,272.53,0.1888
+ORD-0494,2025-07-28,2025,Jul,2025-07,East,Office Supplies,Paper,Consumer,Retail,10,15.4,0.0,154.0,87.17,66.83,0.434
+ORD-0315,2025-07-30,2025,Jul,2025-07,West,Office Supplies,Paper,Consumer,Online,11,44.74,0.15,418.32,305.2,113.12,0.2704
+ORD-0386,2025-08-01,2025,Aug,2025-08,North,Technology,Monitor,Consumer,Retail,1,626.94,0.0,626.94,369.77,257.17,0.4102
+ORD-0005,2025-08-03,2025,Aug,2025-08,North,Office Supplies,Markers,Consumer,Retail,12,24.52,0.2,235.39,156.26,79.13,0.3362
+ORD-0032,2025-08-07,2025,Aug,2025-08,North,Furniture,Desk,Corporate,Online,10,501.95,0.2,4015.6,3962.28,53.32,0.0133
+ORD-0250,2025-08-08,2025,Aug,2025-08,South,Office Supplies,Markers,Consumer,Retail,7,77.5,0.2,434.0,331.92,102.08,0.2352
+ORD-0131,2025-08-09,2025,Aug,2025-08,North,Furniture,Office Chair,Corporate,Online,11,214.3,0.0,2357.3,1898.37,458.93,0.1947
+ORD-0470,2025-08-12,2025,Aug,2025-08,South,Technology,Monitor,Corporate,Retail,12,761.76,0.15,7769.95,6585.75,1184.2,0.1524
+ORD-0341,2025-08-14,2025,Aug,2025-08,South,Technology,Mouse,Small Business,Retail,10,742.21,0.2,5937.68,5094.45,843.23,0.142
+ORD-0027,2025-08-16,2025,Aug,2025-08,East,Technology,Mouse,Small Business,Online,4,262.8,0.05,998.64,791.42,207.22,0.2075
+ORD-0303,2025-08-17,2025,Aug,2025-08,East,Office Supplies,Folders,Corporate,Online,2,54.36,0.15,92.41,52.74,39.67,0.4293
+ORD-0272,2025-08-18,2025,Aug,2025-08,East,Office Supplies,Markers,Corporate,Retail,10,22.89,0.05,217.45,111.51,105.94,0.4872
+ORD-0191,2025-08-19,2025,Aug,2025-08,West,Furniture,Desk,Small Business,Retail,8,121.13,0.15,823.68,675.46,148.22,0.1799
+ORD-0168,2025-08-20,2025,Aug,2025-08,North,Technology,Laptop,Consumer,Online,9,470.32,0.0,4232.88,2878.24,1354.64,0.32
+ORD-0142,2025-08-20,2025,Aug,2025-08,North,Office Supplies,Notebook,Corporate,Online,2,77.3,0.0,154.6,103.52,51.08,0.3304
+ORD-0246,2025-08-22,2025,Aug,2025-08,West,Technology,Headphones,Consumer,Retail,12,421.75,0.0,5061.0,3859.96,1201.04,0.2373
+ORD-0057,2025-08-23,2025,Aug,2025-08,North,Office Supplies,Folders,Corporate,Partner,5,17.31,0.15,73.57,42.87,30.7,0.4173
+ORD-0311,2025-08-24,2025,Aug,2025-08,North,Furniture,Desk,Corporate,Online,9,506.32,0.0,4556.88,3413.55,1143.33,0.2509
+ORD-0093,2025-08-24,2025,Aug,2025-08,North,Furniture,Bookshelf,Corporate,Online,7,557.43,0.15,3316.71,2750.64,566.07,0.1707
+ORD-0376,2025-08-25,2025,Aug,2025-08,North,Office Supplies,Paper,Corporate,Retail,9,53.37,0.0,480.33,232.66,247.67,0.5156
+ORD-0454,2025-08-26,2025,Aug,2025-08,East,Office Supplies,Folders,Consumer,Online,11,54.61,0.15,510.6,315.99,194.61,0.3811
+ORD-0314,2025-08-27,2025,Aug,2025-08,East,Office Supplies,Notebook,Corporate,Retail,5,64.0,0.15,272.0,174.0,98.0,0.3603
+ORD-0105,2025-09-01,2025,Sep,2025-09,East,Office Supplies,Folders,Small Business,Retail,4,65.46,0.1,235.66,162.23,73.43,0.3116
+ORD-0205,2025-09-03,2025,Sep,2025-09,South,Furniture,Office Chair,Corporate,Retail,9,66.52,0.05,568.75,479.41,89.34,0.1571
+ORD-0061,2025-09-03,2025,Sep,2025-09,North,Office Supplies,Paper,Consumer,Retail,2,67.24,0.1,121.03,84.23,36.8,0.3041
+ORD-0111,2025-09-05,2025,Sep,2025-09,West,Office Supplies,Paper,Consumer,Online,10,10.51,0.05,99.84,60.63,39.21,0.3927
+ORD-0323,2025-09-07,2025,Sep,2025-09,West,Office Supplies,Stapler,Small Business,Partner,8,52.16,0.0,417.28,220.71,196.57,0.4711
+ORD-0400,2025-09-08,2025,Sep,2025-09,East,Technology,Keyboard,Consumer,Retail,1,466.0,0.0,466.0,278.31,187.69,0.4028
+ORD-0046,2025-09-09,2025,Sep,2025-09,East,Office Supplies,Notebook,Consumer,Partner,8,29.57,0.1,212.9,119.0,93.9,0.4411
+ORD-0224,2025-09-09,2025,Sep,2025-09,West,Office Supplies,Stapler,Corporate,Partner,2,19.16,0.15,32.57,22.45,10.12,0.3107
+ORD-0345,2025-09-12,2025,Sep,2025-09,South,Furniture,Filing Cabinet,Consumer,Retail,8,110.74,0.0,885.92,676.05,209.87,0.2369
+ORD-0261,2025-09-12,2025,Sep,2025-09,East,Technology,Keyboard,Consumer,Online,10,331.01,0.05,3144.59,2221.69,922.9,0.2935
+ORD-0348,2025-09-12,2025,Sep,2025-09,East,Technology,Laptop,Small Business,Partner,11,129.24,0.15,1208.39,1049.59,158.8,0.1314
+ORD-0147,2025-09-12,2025,Sep,2025-09,South,Technology,Mouse,Consumer,Online,6,327.6,0.2,1572.48,1281.4,291.08,0.1851
+ORD-0427,2025-09-14,2025,Sep,2025-09,West,Office Supplies,Notebook,Corporate,Online,1,57.2,0.1,51.48,39.18,12.3,0.2389
+ORD-0492,2025-09-15,2025,Sep,2025-09,South,Office Supplies,Stapler,Corporate,Partner,9,20.18,0.2,145.3,110.69,34.61,0.2382
+ORD-0423,2025-09-15,2025,Sep,2025-09,North,Technology,Laptop,Corporate,Online,4,859.4,0.0,3437.6,2053.2,1384.4,0.4027
+ORD-0298,2025-09-16,2025,Sep,2025-09,North,Technology,Monitor,Small Business,Partner,9,458.24,0.0,4124.16,2598.79,1525.37,0.3699
+ORD-0141,2025-09-20,2025,Sep,2025-09,South,Office Supplies,Pen Set,Consumer,Partner,9,50.79,0.15,388.54,309.14,79.4,0.2044
+ORD-0256,2025-09-22,2025,Sep,2025-09,South,Office Supplies,Folders,Small Business,Partner,11,60.56,0.05,632.85,361.67,271.18,0.4285
+ORD-0047,2025-09-22,2025,Sep,2025-09,East,Furniture,Table,Corporate,Retail,4,448.84,0.0,1795.36,1356.65,438.71,0.2444
+ORD-0457,2025-09-24,2025,Sep,2025-09,North,Furniture,Desk,Small Business,Retail,3,351.53,0.05,1001.86,659.37,342.49,0.3419
+ORD-0235,2025-09-25,2025,Sep,2025-09,East,Office Supplies,Notebook,Consumer,Online,12,78.33,0.05,892.96,536.42,356.54,0.3993
+ORD-0162,2025-09-25,2025,Sep,2025-09,West,Furniture,Filing Cabinet,Small Business,Online,8,232.93,0.05,1770.27,1375.46,394.81,0.223
+ORD-0419,2025-09-28,2025,Sep,2025-09,North,Office Supplies,Notebook,Consumer,Online,5,74.11,0.0,370.55,210.71,159.84,0.4314
+ORD-0139,2025-09-28,2025,Sep,2025-09,South,Furniture,Desk,Consumer,Online,5,440.65,0.1,1982.92,1527.4,455.52,0.2297
+ORD-0136,2025-09-29,2025,Sep,2025-09,South,Office Supplies,Folders,Corporate,Retail,3,62.87,0.1,169.75,86.36,83.39,0.4913
+ORD-0009,2025-10-01,2025,Oct,2025-10,North,Office Supplies,Paper,Consumer,Online,1,24.02,0.15,20.42,11.45,8.97,0.4393
+ORD-0176,2025-10-02,2025,Oct,2025-10,South,Furniture,Office Chair,Consumer,Online,8,255.01,0.2,1632.06,1519.25,112.81,0.0691
+ORD-0329,2025-10-03,2025,Oct,2025-10,East,Furniture,Table,Corporate,Online,4,466.19,0.1,1678.28,1226.6,451.68,0.2691
+ORD-0325,2025-10-03,2025,Oct,2025-10,South,Technology,Headphones,Consumer,Retail,12,278.49,0.0,3341.88,2497.28,844.6,0.2527
+ORD-0213,2025-10-05,2025,Oct,2025-10,East,Office Supplies,Folders,Corporate,Online,1,78.59,0.1,70.73,40.91,29.82,0.4216
+ORD-0074,2025-10-07,2025,Oct,2025-10,West,Office Supplies,Paper,Consumer,Partner,6,9.72,0.0,58.32,40.53,17.79,0.305
+ORD-0491,2025-10-07,2025,Oct,2025-10,West,Technology,Printer,Consumer,Online,2,614.26,0.1,1105.67,875.56,230.11,0.2081
+ORD-0399,2025-10-07,2025,Oct,2025-10,North,Technology,Keyboard,Corporate,Online,9,163.95,0.05,1401.77,897.59,504.18,0.3597
+ORD-0140,2025-10-08,2025,Oct,2025-10,West,Technology,Printer,Consumer,Partner,6,862.78,0.05,4917.85,3991.55,926.3,0.1884
+ORD-0327,2025-10-09,2025,Oct,2025-10,East,Furniture,Table,Corporate,Online,3,491.61,0.15,1253.61,1021.95,231.66,0.1848
+ORD-0274,2025-10-12,2025,Oct,2025-10,West,Technology,Monitor,Consumer,Online,8,444.23,0.1,3198.46,2378.99,819.47,0.2562
+ORD-0226,2025-10-15,2025,Oct,2025-10,East,Technology,Mouse,Small Business,Retail,3,162.11,0.2,389.06,287.51,101.55,0.261
+ORD-0387,2025-10-19,2025,Oct,2025-10,South,Furniture,Table,Corporate,Partner,6,110.29,0.05,628.65,524.27,104.38,0.166
+ORD-0115,2025-10-20,2025,Oct,2025-10,East,Furniture,Office Chair,Small Business,Online,7,461.39,0.1,2906.76,2129.14,777.62,0.2675
+ORD-0072,2025-10-21,2025,Oct,2025-10,East,Office Supplies,Pen Set,Consumer,Online,5,54.1,0.0,270.5,165.43,105.07,0.3884
+ORD-0285,2025-10-22,2025,Oct,2025-10,West,Office Supplies,Notebook,Small Business,Online,11,4.99,0.05,52.15,36.51,15.64,0.2999
+ORD-0056,2025-10-23,2025,Oct,2025-10,East,Furniture,Filing Cabinet,Small Business,Retail,9,296.39,0.1,2400.76,1992.04,408.72,0.1702
+ORD-0094,2025-10-24,2025,Oct,2025-10,East,Technology,Laptop,Small Business,Online,8,762.26,0.0,6098.08,3833.64,2264.44,0.3713
+ORD-0238,2025-10-26,2025,Oct,2025-10,North,Office Supplies,Stapler,Consumer,Online,8,52.78,0.1,380.02,229.0,151.02,0.3974
+ORD-0416,2025-10-26,2025,Oct,2025-10,North,Office Supplies,Folders,Consumer,Online,9,23.16,0.15,177.17,94.54,82.63,0.4664
+ORD-0053,2025-11-01,2025,Nov,2025-11,East,Office Supplies,Stapler,Consumer,Retail,12,51.54,0.05,587.56,305.19,282.37,0.4806
+ORD-0188,2025-11-01,2025,Nov,2025-11,North,Office Supplies,Folders,Consumer,Retail,4,56.7,0.15,192.78,134.65,58.13,0.3015
+ORD-0010,2025-11-02,2025,Nov,2025-11,South,Office Supplies,Folders,Corporate,Online,9,73.81,0.15,564.65,453.23,111.42,0.1973
+ORD-0359,2025-11-04,2025,Nov,2025-11,East,Office Supplies,Pen Set,Small Business,Online,12,42.86,0.15,437.17,236.3,200.87,0.4595
+ORD-0122,2025-11-04,2025,Nov,2025-11,South,Office Supplies,Markers,Corporate,Retail,2,21.99,0.1,39.58,23.85,15.73,0.3974
+ORD-0469,2025-11-05,2025,Nov,2025-11,East,Technology,Headphones,Corporate,Online,3,90.58,0.1,244.57,180.0,64.57,0.264
+ORD-0083,2025-11-05,2025,Nov,2025-11,North,Furniture,Office Chair,Small Business,Partner,7,324.75,0.0,2273.25,1563.19,710.06,0.3124
+ORD-0252,2025-11-06,2025,Nov,2025-11,West,Office Supplies,Folders,Consumer,Retail,11,46.67,0.15,436.36,244.89,191.47,0.4388
+ORD-0408,2025-11-08,2025,Nov,2025-11,East,Office Supplies,Stapler,Corporate,Partner,10,13.69,0.05,130.06,94.73,35.33,0.2716
+ORD-0077,2025-11-08,2025,Nov,2025-11,North,Office Supplies,Notebook,Corporate,Online,7,60.48,0.15,359.86,206.87,152.99,0.4251
+ORD-0200,2025-11-09,2025,Nov,2025-11,West,Office Supplies,Pen Set,Corporate,Retail,1,49.12,0.15,41.75,30.65,11.1,0.2659
+ORD-0117,2025-11-10,2025,Nov,2025-11,South,Furniture,Filing Cabinet,Consumer,Retail,1,552.27,0.1,497.04,456.07,40.97,0.0824
+ORD-0049,2025-11-10,2025,Nov,2025-11,South,Technology,Laptop,Corporate,Online,12,231.82,0.2,2225.47,1941.49,283.98,0.1276
+ORD-0216,2025-11-11,2025,Nov,2025-11,South,Technology,Printer,Small Business,Online,3,663.56,0.15,1692.08,1319.05,373.03,0.2205
+ORD-0011,2025-11-11,2025,Nov,2025-11,North,Technology,Monitor,Corporate,Online,2,881.95,0.2,1411.12,1190.73,220.39,0.1562
+ORD-0339,2025-11-12,2025,Nov,2025-11,South,Furniture,Bookshelf,Consumer,Online,3,313.37,0.1,846.1,677.05,169.05,0.1998
+ORD-0431,2025-11-12,2025,Nov,2025-11,North,Furniture,Filing Cabinet,Consumer,Online,12,123.82,0.2,1188.67,1214.55,-25.88,-0.0218
+ORD-0395,2025-11-12,2025,Nov,2025-11,North,Office Supplies,Paper,Consumer,Online,4,27.0,0.15,91.8,69.79,22.01,0.2398
+ORD-0089,2025-11-13,2025,Nov,2025-11,North,Office Supplies,Paper,Consumer,Online,11,52.12,0.0,573.32,311.91,261.41,0.456
+ORD-0073,2025-11-13,2025,Nov,2025-11,East,Office Supplies,Notebook,Consumer,Retail,5,19.26,0.15,81.86,55.42,26.44,0.323
+ORD-0102,2025-11-14,2025,Nov,2025-11,South,Furniture,Bookshelf,Small Business,Retail,12,552.72,0.2,5306.11,4616.21,689.9,0.13
+ORD-0214,2025-11-15,2025,Nov,2025-11,West,Technology,Printer,Consumer,Online,10,723.3,0.05,6871.35,5051.08,1820.27,0.2649
+ORD-0043,2025-11-16,2025,Nov,2025-11,West,Furniture,Filing Cabinet,Consumer,Partner,10,398.71,0.05,3787.74,2974.72,813.02,0.2146
+ORD-0018,2025-11-18,2025,Nov,2025-11,West,Technology,Printer,Small Business,Retail,3,126.64,0.0,379.92,265.57,114.35,0.301
+ORD-0477,2025-11-18,2025,Nov,2025-11,South,Technology,Laptop,Consumer,Retail,5,536.85,0.0,2684.25,1763.43,920.82,0.343
+ORD-0300,2025-11-20,2025,Nov,2025-11,North,Office Supplies,Pen Set,Small Business,Online,12,67.85,0.0,814.2,464.08,350.12,0.43
+ORD-0157,2025-11-25,2025,Nov,2025-11,South,Technology,Monitor,Consumer,Online,9,857.79,0.2,6176.09,5525.67,650.42,0.1053
+ORD-0489,2025-11-27,2025,Nov,2025-11,North,Furniture,Filing Cabinet,Consumer,Retail,8,473.05,0.15,3216.74,3116.76,99.98,0.0311
+ORD-0346,2025-11-27,2025,Nov,2025-11,North,Technology,Headphones,Corporate,Retail,2,287.72,0.0,575.44,433.15,142.29,0.2473
+ORD-0288,2025-11-27,2025,Nov,2025-11,East,Furniture,Table,Corporate,Retail,6,442.15,0.0,2652.9,2082.83,570.07,0.2149
+ORD-0425,2025-11-28,2025,Nov,2025-11,East,Technology,Laptop,Consumer,Retail,6,896.69,0.0,5380.14,3594.55,1785.59,0.3319
+ORD-0403,2025-11-29,2025,Nov,2025-11,North,Furniture,Office Chair,Consumer,Online,8,212.42,0.15,1444.46,1090.34,354.12,0.2452
+ORD-0220,2025-12-02,2025,Dec,2025-12,South,Technology,Headphones,Consumer,Partner,1,635.29,0.0,635.29,489.44,145.85,0.2296
+ORD-0299,2025-12-05,2025,Dec,2025-12,North,Furniture,Desk,Consumer,Online,4,303.35,0.05,1152.73,791.14,361.59,0.3137
+ORD-0344,2025-12-05,2025,Dec,2025-12,North,Technology,Monitor,Consumer,Online,9,465.52,0.1,3770.71,3124.04,646.67,0.1715
+ORD-0245,2025-12-06,2025,Dec,2025-12,West,Office Supplies,Notebook,Small Business,Partner,1,27.63,0.1,24.87,19.15,5.72,0.23
+ORD-0415,2025-12-06,2025,Dec,2025-12,East,Furniture,Bookshelf,Corporate,Online,10,452.56,0.0,4525.6,3355.32,1170.28,0.2586
+ORD-0134,2025-12-08,2025,Dec,2025-12,West,Office Supplies,Folders,Small Business,Online,3,16.35,0.15,41.69,26.2,15.49,0.3716
+ORD-0450,2025-12-09,2025,Dec,2025-12,West,Technology,Laptop,Corporate,Retail,12,252.03,0.05,2873.14,2297.26,575.88,0.2004
+ORD-0145,2025-12-10,2025,Dec,2025-12,West,Technology,Headphones,Consumer,Partner,9,463.78,0.0,4174.02,3031.27,1142.75,0.2738
+ORD-0233,2025-12-10,2025,Dec,2025-12,South,Furniture,Bookshelf,Consumer,Online,5,449.02,0.1,2020.59,1848.87,171.72,0.085
+ORD-0104,2025-12-11,2025,Dec,2025-12,South,Office Supplies,Folders,Consumer,Retail,3,65.49,0.0,196.47,106.3,90.17,0.459
+ORD-0357,2025-12-12,2025,Dec,2025-12,West,Office Supplies,Folders,Small Business,Partner,9,32.25,0.2,232.2,174.76,57.44,0.2474
+ORD-0334,2025-12-12,2025,Dec,2025-12,West,Furniture,Table,Consumer,Partner,3,229.28,0.2,550.27,519.58,30.69,0.0558
+ORD-0229,2025-12-15,2025,Dec,2025-12,North,Office Supplies,Paper,Corporate,Online,3,69.41,0.0,208.23,114.3,93.93,0.4511
+ORD-0277,2025-12-16,2025,Dec,2025-12,East,Furniture,Bookshelf,Consumer,Retail,3,503.79,0.1,1360.23,1130.93,229.3,0.1686
+ORD-0276,2025-12-16,2025,Dec,2025-12,South,Furniture,Office Chair,Consumer,Partner,10,447.0,0.1,4023.0,3484.17,538.83,0.1339
+ORD-0392,2025-12-16,2025,Dec,2025-12,North,Furniture,Table,Consumer,Partner,6,318.72,0.0,1912.32,1379.0,533.32,0.2789
+ORD-0255,2025-12-18,2025,Dec,2025-12,West,Office Supplies,Pen Set,Corporate,Partner,9,53.98,0.15,412.95,234.16,178.79,0.433
+ORD-0158,2025-12-19,2025,Dec,2025-12,West,Office Supplies,Markers,Consumer,Retail,7,17.97,0.15,106.92,66.06,40.86,0.3822
+ORD-0184,2025-12-23,2025,Dec,2025-12,West,Furniture,Filing Cabinet,Consumer,Online,12,518.56,0.2,4978.18,5073.28,-95.1,-0.0191
+ORD-0108,2025-12-24,2025,Dec,2025-12,North,Office Supplies,Stapler,Consumer,Online,7,6.14,0.0,42.98,27.84,15.14,0.3523
+ORD-0021,2025-12-24,2025,Dec,2025-12,East,Office Supplies,Pen Set,Consumer,Online,9,79.03,0.2,569.02,418.69,150.33,0.2642
+ORD-0324,2025-12-28,2025,Dec,2025-12,East,Furniture,Office Chair,Consumer,Online,11,244.68,0.0,2691.48,1868.54,822.94,0.3058
+ORD-0394,2025-12-29,2025,Dec,2025-12,East,Technology,Monitor,Consumer,Partner,7,593.74,0.1,3740.56,2566.34,1174.22,0.3139
+ORD-0360,2025-12-31,2025,Dec,2025-12,East,Technology,Keyboard,Consumer,Partner,5,745.08,0.0,3725.4,2707.82,1017.58,0.2731
+ORD-0481,2025-12-31,2025,Dec,2025-12,West,Furniture,Table,Corporate,Partner,3,118.34,0.1,319.52,290.37,29.15,0.0912
+ORD-0468,2025-12-31,2025,Dec,2025-12,North,Technology,Keyboard,Corporate,Retail,3,707.05,0.05,2015.09,1600.38,414.71,0.2058
+ORD-0460,2026-01-01,2026,Jan,2026-01,South,Technology,Laptop,Consumer,Retail,5,240.49,0.2,961.96,858.92,103.04,0.1071
+ORD-0025,2026-01-02,2026,Jan,2026-01,North,Technology,Monitor,Corporate,Online,7,878.55,0.0,6149.85,4630.35,1519.5,0.2471
+ORD-0071,2026-01-03,2026,Jan,2026-01,North,Furniture,Bookshelf,Corporate,Partner,5,527.14,0.0,2635.7,2046.58,589.12,0.2235
+ORD-0079,2026-01-03,2026,Jan,2026-01,South,Technology,Keyboard,Small Business,Partner,8,155.17,0.0,1241.36,732.55,508.81,0.4099
+ORD-0174,2026-01-04,2026,Jan,2026-01,South,Office Supplies,Notebook,Consumer,Online,9,6.0,0.05,51.3,34.89,16.41,0.3199
+ORD-0305,2026-01-05,2026,Jan,2026-01,North,Furniture,Filing Cabinet,Corporate,Online,2,341.54,0.2,546.46,501.59,44.87,0.0821
+ORD-0004,2026-01-06,2026,Jan,2026-01,North,Furniture,Office Chair,Small Business,Retail,2,527.9,0.1,950.22,735.49,214.73,0.226
+ORD-0212,2026-01-08,2026,Jan,2026-01,South,Furniture,Desk,Small Business,Partner,9,445.57,0.0,4010.13,2836.82,1173.31,0.2926
+ORD-0206,2026-01-10,2026,Jan,2026-01,West,Furniture,Desk,Small Business,Partner,1,67.45,0.0,67.45,47.46,19.99,0.2964
+ORD-0119,2026-01-11,2026,Jan,2026-01,North,Furniture,Table,Corporate,Retail,6,472.07,0.15,2407.56,1943.1,464.46,0.1929
+ORD-0088,2026-01-12,2026,Jan,2026-01,South,Technology,Keyboard,Small Business,Partner,10,583.13,0.2,4665.04,4349.52,315.52,0.0676
+ORD-0116,2026-01-12,2026,Jan,2026-01,East,Office Supplies,Folders,Corporate,Partner,2,17.71,0.05,33.65,21.79,11.86,0.3525
+ORD-0107,2026-01-16,2026,Jan,2026-01,North,Furniture,Office Chair,Corporate,Online,5,337.21,0.0,1686.05,1123.97,562.08,0.3334
+ORD-0064,2026-01-22,2026,Jan,2026-01,South,Furniture,Bookshelf,Consumer,Partner,7,478.79,0.2,2681.22,2720.84,-39.62,-0.0148
+ORD-0306,2026-01-23,2026,Jan,2026-01,East,Furniture,Office Chair,Small Business,Online,9,501.31,0.1,4060.61,2803.56,1257.05,0.3096
+ORD-0153,2026-01-27,2026,Jan,2026-01,West,Furniture,Filing Cabinet,Small Business,Online,9,524.55,0.15,4012.81,3053.24,959.57,0.2391
+ORD-0190,2026-01-29,2026,Jan,2026-01,West,Office Supplies,Folders,Corporate,Online,12,10.28,0.0,123.36,56.52,66.84,0.5418
+ORD-0383,2026-01-29,2026,Jan,2026-01,South,Office Supplies,Folders,Consumer,Online,3,54.12,0.0,162.36,104.28,58.08,0.3577
+ORD-0175,2026-01-30,2026,Jan,2026-01,West,Technology,Mouse,Corporate,Retail,9,822.27,0.0,7400.43,5306.58,2093.85,0.2829
+ORD-0101,2026-01-31,2026,Jan,2026-01,South,Technology,Headphones,Corporate,Online,3,831.73,0.2,1996.15,1642.81,353.34,0.177
+ORD-0294,2026-02-02,2026,Feb,2026-02,West,Furniture,Filing Cabinet,Consumer,Online,2,406.37,0.2,650.19,623.52,26.67,0.041
+ORD-0227,2026-02-02,2026,Feb,2026-02,South,Furniture,Desk,Consumer,Online,12,553.55,0.2,5314.08,4910.26,403.82,0.076
+ORD-0039,2026-02-03,2026,Feb,2026-02,West,Technology,Headphones,Small Business,Retail,3,884.19,0.15,2254.68,1837.91,416.77,0.1848
+ORD-0498,2026-02-04,2026,Feb,2026-02,South,Office Supplies,Markers,Consumer,Partner,2,37.4,0.05,71.06,43.64,27.42,0.3859
+ORD-0017,2026-02-04,2026,Feb,2026-02,East,Technology,Mouse,Small Business,Online,9,622.73,0.0,5604.57,4336.49,1268.08,0.2263
+ORD-0278,2026-02-07,2026,Feb,2026-02,East,Technology,Monitor,Consumer,Online,11,766.72,0.1,7590.53,5663.19,1927.34,0.2539
+ORD-0218,2026-02-07,2026,Feb,2026-02,East,Office Supplies,Markers,Consumer,Online,2,62.53,0.0,125.06,70.85,54.21,0.4335
+ORD-0363,2026-02-07,2026,Feb,2026-02,North,Office Supplies,Folders,Consumer,Online,7,40.16,0.2,224.9,132.48,92.42,0.4109
+ORD-0297,2026-02-08,2026,Feb,2026-02,East,Furniture,Office Chair,Corporate,Online,12,282.83,0.15,2884.87,2235.39,649.48,0.2251
+ORD-0092,2026-02-09,2026,Feb,2026-02,North,Office Supplies,Notebook,Small Business,Online,3,13.12,0.1,35.42,21.45,13.97,0.3944
+ORD-0020,2026-02-10,2026,Feb,2026-02,East,Technology,Headphones,Small Business,Online,2,87.64,0.0,175.28,104.23,71.05,0.4054
+ORD-0095,2026-02-10,2026,Feb,2026-02,East,Office Supplies,Markers,Small Business,Online,2,42.76,0.05,81.24,52.28,28.96,0.3565
+ORD-0129,2026-02-13,2026,Feb,2026-02,North,Technology,Keyboard,Corporate,Online,5,448.67,0.1,2019.01,1688.87,330.14,0.1635
+ORD-0132,2026-02-17,2026,Feb,2026-02,North,Furniture,Filing Cabinet,Consumer,Retail,9,268.63,0.15,2055.02,2001.13,53.89,0.0262
+ORD-0128,2026-02-20,2026,Feb,2026-02,North,Technology,Laptop,Consumer,Online,8,247.3,0.2,1582.72,1273.82,308.9,0.1952
+ORD-0219,2026-02-21,2026,Feb,2026-02,South,Technology,Keyboard,Corporate,Online,2,154.15,0.2,246.64,221.78,24.86,0.1008
+ORD-0180,2026-02-23,2026,Feb,2026-02,East,Office Supplies,Pen Set,Corporate,Online,12,38.13,0.15,388.93,263.85,125.08,0.3216
+ORD-0195,2026-02-26,2026,Feb,2026-02,South,Office Supplies,Paper,Consumer,Retail,3,61.87,0.2,148.49,112.87,35.62,0.2399
+ORD-0375,2026-02-26,2026,Feb,2026-02,East,Technology,Headphones,Consumer,Online,3,231.49,0.05,659.75,486.91,172.84,0.262
+ORD-0444,2026-02-26,2026,Feb,2026-02,South,Office Supplies,Stapler,Small Business,Retail,5,70.32,0.0,351.6,236.61,114.99,0.327
+ORD-0026,2026-02-27,2026,Feb,2026-02,East,Technology,Headphones,Consumer,Retail,11,788.53,0.2,6939.06,5218.34,1720.72,0.248
+ORD-0281,2026-02-27,2026,Feb,2026-02,East,Furniture,Table,Corporate,Partner,6,565.18,0.0,3391.08,2611.2,779.88,0.23
+ORD-0391,2026-02-28,2026,Feb,2026-02,South,Technology,Keyboard,Consumer,Online,5,288.62,0.15,1226.63,930.49,296.14,0.2414
+ORD-0258,2026-02-28,2026,Feb,2026-02,South,Technology,Monitor,Consumer,Partner,10,812.13,0.2,6497.04,5003.3,1493.74,0.2299
+ORD-0078,2026-03-01,2026,Mar,2026-03,West,Office Supplies,Stapler,Consumer,Partner,12,76.24,0.05,869.14,536.23,332.91,0.383
+ORD-0196,2026-03-01,2026,Mar,2026-03,North,Furniture,Office Chair,Corporate,Online,12,259.3,0.05,2956.02,2496.97,459.05,0.1553
+ORD-0062,2026-03-02,2026,Mar,2026-03,South,Office Supplies,Stapler,Consumer,Online,4,70.83,0.0,283.32,156.88,126.44,0.4463
+ORD-0149,2026-03-02,2026,Mar,2026-03,South,Office Supplies,Stapler,Corporate,Retail,10,37.95,0.2,303.6,181.42,122.18,0.4024
+ORD-0181,2026-03-05,2026,Mar,2026-03,North,Furniture,Bookshelf,Consumer,Online,11,409.38,0.2,3602.54,3169.88,432.66,0.1201
+ORD-0189,2026-03-10,2026,Mar,2026-03,South,Technology,Headphones,Corporate,Retail,3,233.42,0.05,665.25,539.46,125.79,0.1891
+ORD-0091,2026-03-11,2026,Mar,2026-03,West,Furniture,Filing Cabinet,Corporate,Online,2,119.88,0.15,203.8,182.24,21.56,0.1058
+ORD-0434,2026-03-13,2026,Mar,2026-03,West,Technology,Headphones,Small Business,Online,10,527.63,0.0,5276.3,3866.71,1409.59,0.2672
+ORD-0487,2026-03-15,2026,Mar,2026-03,West,Furniture,Bookshelf,Corporate,Online,4,228.53,0.2,731.3,625.29,106.01,0.145
+ORD-0199,2026-03-15,2026,Mar,2026-03,South,Technology,Headphones,Consumer,Partner,5,156.54,0.2,626.16,595.45,30.71,0.049
+ORD-0260,2026-03-16,2026,Mar,2026-03,North,Office Supplies,Stapler,Consumer,Online,6,61.52,0.15,313.75,223.93,89.82,0.2863
+ORD-0340,2026-03-17,2026,Mar,2026-03,South,Office Supplies,Folders,Corporate,Retail,4,34.0,0.0,136.0,89.37,46.63,0.3429
+ORD-0365,2026-03-17,2026,Mar,2026-03,North,Technology,Printer,Consumer,Online,6,365.61,0.0,2193.66,1610.01,583.65,0.2661
+ORD-0182,2026-03-17,2026,Mar,2026-03,East,Technology,Laptop,Corporate,Online,9,556.03,0.1,4503.84,3365.94,1137.9,0.2527
+ORD-0421,2026-03-19,2026,Mar,2026-03,East,Furniture,Bookshelf,Small Business,Online,5,271.22,0.2,1084.88,1032.12,52.76,0.0486
+ORD-0262,2026-03-21,2026,Mar,2026-03,East,Office Supplies,Pen Set,Corporate,Partner,4,65.71,0.0,262.84,126.9,135.94,0.5172
+ORD-0347,2026-03-21,2026,Mar,2026-03,East,Technology,Monitor,Consumer,Retail,4,87.32,0.1,314.35,250.67,63.68,0.2026
+ORD-0242,2026-03-22,2026,Mar,2026-03,South,Technology,Headphones,Consumer,Partner,12,829.62,0.1,8959.9,6873.34,2086.56,0.2329
+ORD-0029,2026-03-23,2026,Mar,2026-03,North,Furniture,Table,Corporate,Online,5,295.47,0.15,1255.75,1207.67,48.08,0.0383
+ORD-0100,2026-03-25,2026,Mar,2026-03,South,Office Supplies,Folders,Small Business,Online,7,49.44,0.2,276.86,163.91,112.95,0.408
+ORD-0307,2026-03-27,2026,Mar,2026-03,East,Technology,Laptop,Consumer,Online,6,573.66,0.1,3097.76,2554.74,543.02,0.1753
+ORD-0366,2026-03-29,2026,Mar,2026-03,North,Office Supplies,Stapler,Consumer,Partner,11,68.81,0.0,756.91,458.12,298.79,0.3947
+ORD-0203,2026-03-30,2026,Mar,2026-03,North,Office Supplies,Notebook,Consumer,Online,12,27.9,0.0,334.8,171.43,163.37,0.488
+ORD-0286,2026-03-30,2026,Mar,2026-03,East,Office Supplies,Markers,Corporate,Retail,10,18.71,0.1,168.39,92.94,75.45,0.4481
+ORD-0478,2026-03-31,2026,Mar,2026-03,East,Technology,Mouse,Consumer,Partner,2,813.7,0.05,1546.03,1002.25,543.78,0.3517
+ORD-0335,2026-04-01,2026,Apr,2026-04,West,Office Supplies,Paper,Consumer,Online,1,23.13,0.2,18.5,11.37,7.13,0.3854
+ORD-0239,2026-04-02,2026,Apr,2026-04,West,Technology,Mouse,Small Business,Online,10,130.54,0.0,1305.4,931.57,373.83,0.2864
+ORD-0301,2026-04-02,2026,Apr,2026-04,West,Furniture,Bookshelf,Consumer,Retail,10,211.53,0.15,1798.01,1637.34,160.67,0.0894
+ORD-0249,2026-04-02,2026,Apr,2026-04,East,Technology,Mouse,Small Business,Online,5,694.15,0.1,3123.68,2047.5,1076.18,0.3445
+ORD-0124,2026-04-06,2026,Apr,2026-04,East,Furniture,Table,Small Business,Online,9,158.26,0.1,1281.91,1142.78,139.13,0.1085
+ORD-0332,2026-04-06,2026,Apr,2026-04,East,Office Supplies,Paper,Corporate,Online,5,30.68,0.2,122.72,91.12,31.6,0.2575
+ORD-0412,2026-04-06,2026,Apr,2026-04,South,Furniture,Desk,Consumer,Online,8,187.84,0.1,1352.45,1113.57,238.88,0.1766
+ORD-0484,2026-04-06,2026,Apr,2026-04,West,Technology,Mouse,Consumer,Online,9,620.72,0.0,5586.48,3789.29,1797.19,0.3217
+ORD-0381,2026-04-08,2026,Apr,2026-04,North,Technology,Printer,Corporate,Online,12,528.05,0.0,6336.6,3901.92,2434.68,0.3842
+ORD-0446,2026-04-09,2026,Apr,2026-04,North,Furniture,Office Chair,Consumer,Retail,4,219.73,0.0,878.92,668.42,210.5,0.2395
+ORD-0351,2026-04-10,2026,Apr,2026-04,West,Technology,Headphones,Small Business,Retail,10,782.6,0.2,6260.8,4638.22,1622.58,0.2592
+ORD-0090,2026-04-10,2026,Apr,2026-04,East,Furniture,Bookshelf,Small Business,Retail,10,537.0,0.15,4564.5,3421.4,1143.1,0.2504
+ORD-0442,2026-04-11,2026,Apr,2026-04,South,Technology,Keyboard,Consumer,Online,6,879.96,0.2,4223.81,3662.74,561.07,0.1328
+ORD-0114,2026-04-14,2026,Apr,2026-04,North,Technology,Monitor,Small Business,Retail,6,845.36,0.15,4311.34,3422.08,889.26,0.2063
+ORD-0045,2026-04-16,2026,Apr,2026-04,South,Office Supplies,Stapler,Small Business,Retail,5,62.87,0.1,282.91,162.55,120.36,0.4254
+ORD-0447,2026-04-16,2026,Apr,2026-04,North,Office Supplies,Markers,Corporate,Partner,3,64.03,0.05,182.49,86.51,95.98,0.5259
+ORD-0098,2026-04-18,2026,Apr,2026-04,East,Furniture,Office Chair,Consumer,Partner,2,333.82,0.15,567.49,517.54,49.95,0.088
+ORD-0443,2026-04-22,2026,Apr,2026-04,East,Furniture,Desk,Consumer,Online,3,404.52,0.0,1213.56,893.28,320.28,0.2639
+ORD-0148,2026-04-22,2026,Apr,2026-04,East,Technology,Mouse,Corporate,Retail,5,381.39,0.1,1716.25,1164.45,551.8,0.3215
+ORD-0483,2026-04-23,2026,Apr,2026-04,West,Technology,Headphones,Consumer,Retail,6,743.77,0.0,4462.62,3472.55,990.07,0.2219
+ORD-0398,2026-04-24,2026,Apr,2026-04,East,Office Supplies,Notebook,Corporate,Online,11,18.63,0.05,194.68,126.6,68.08,0.3497
+ORD-0402,2026-04-25,2026,Apr,2026-04,West,Technology,Keyboard,Small Business,Online,3,786.1,0.1,2122.47,1454.29,668.18,0.3148
+ORD-0439,2026-05-01,2026,May,2026-05,North,Furniture,Desk,Consumer,Online,4,240.52,0.1,865.87,746.08,119.79,0.1383
+ORD-0143,2026-05-04,2026,May,2026-05,East,Office Supplies,Paper,Consumer,Online,2,60.14,0.0,120.28,80.66,39.62,0.3294
+ORD-0308,2026-05-06,2026,May,2026-05,South,Furniture,Table,Consumer,Retail,4,369.68,0.2,1182.98,1193.43,-10.45,-0.0088
+ORD-0310,2026-05-09,2026,May,2026-05,South,Technology,Mouse,Small Business,Retail,3,591.03,0.2,1418.47,1149.91,268.56,0.1893
+ORD-0036,2026-05-12,2026,May,2026-05,West,Office Supplies,Paper,Consumer,Online,5,10.12,0.0,50.6,31.71,18.89,0.3733
+ORD-0436,2026-05-14,2026,May,2026-05,South,Technology,Laptop,Corporate,Partner,10,807.27,0.1,7265.43,5800.01,1465.42,0.2017
+ORD-0411,2026-05-14,2026,May,2026-05,North,Office Supplies,Pen Set,Small Business,Online,8,74.7,0.15,507.96,351.4,156.56,0.3082
+ORD-0067,2026-05-15,2026,May,2026-05,North,Office Supplies,Notebook,Corporate,Online,5,36.98,0.0,184.9,87.85,97.05,0.5249
+ORD-0485,2026-05-15,2026,May,2026-05,West,Office Supplies,Folders,Corporate,Retail,10,15.88,0.0,158.8,110.0,48.8,0.3073
+ORD-0023,2026-05-16,2026,May,2026-05,North,Technology,Laptop,Small Business,Retail,1,82.91,0.05,78.76,50.77,27.99,0.3554
+ORD-0164,2026-05-16,2026,May,2026-05,West,Office Supplies,Markers,Corporate,Online,6,41.11,0.15,209.66,143.31,66.35,0.3165
+ORD-0350,2026-05-17,2026,May,2026-05,East,Technology,Monitor,Corporate,Online,10,829.87,0.0,8298.7,5559.11,2739.59,0.3301
+ORD-0051,2026-05-18,2026,May,2026-05,East,Technology,Laptop,Consumer,Online,3,871.71,0.0,2615.13,1946.76,668.37,0.2556
+ORD-0428,2026-05-18,2026,May,2026-05,North,Furniture,Filing Cabinet,Consumer,Retail,12,320.32,0.05,3651.65,2627.63,1024.02,0.2804
+ORD-0234,2026-05-20,2026,May,2026-05,West,Office Supplies,Paper,Corporate,Online,10,16.36,0.0,163.6,74.44,89.16,0.545
+ORD-0390,2026-05-25,2026,May,2026-05,South,Furniture,Desk,Small Business,Retail,1,311.04,0.2,248.83,245.07,3.76,0.0151
+ORD-0279,2026-05-26,2026,May,2026-05,North,Technology,Headphones,Consumer,Retail,10,476.0,0.0,4760.0,3419.41,1340.59,0.2816
+ORD-0475,2026-05-28,2026,May,2026-05,South,Office Supplies,Folders,Consumer,Retail,10,58.4,0.05,554.8,263.43,291.37,0.5252
+ORD-0364,2026-05-29,2026,May,2026-05,South,Furniture,Desk,Consumer,Retail,7,165.89,0.2,928.98,779.05,149.93,0.1614
+ORD-0207,2026-05-29,2026,May,2026-05,West,Office Supplies,Stapler,Corporate,Online,10,10.01,0.0,100.1,53.22,46.88,0.4683
+ORD-0295,2026-05-30,2026,May,2026-05,East,Technology,Headphones,Consumer,Retail,8,392.76,0.0,3142.08,2157.65,984.43,0.3133
+ORD-0112,2026-06-04,2026,Jun,2026-06,West,Furniture,Filing Cabinet,Consumer,Online,6,68.77,0.05,391.99,312.76,79.23,0.2021
+ORD-0063,2026-06-04,2026,Jun,2026-06,East,Technology,Laptop,Small Business,Retail,10,899.1,0.15,7642.35,6085.72,1556.63,0.2037
+ORD-0028,2026-06-06,2026,Jun,2026-06,East,Furniture,Table,Consumer,Partner,5,579.77,0.0,2898.85,2007.73,891.12,0.3074
+ORD-0135,2026-06-06,2026,Jun,2026-06,East,Furniture,Table,Consumer,Online,6,589.14,0.2,2827.87,2658.71,169.16,0.0598
+ORD-0247,2026-06-13,2026,Jun,2026-06,South,Office Supplies,Notebook,Corporate,Online,7,70.83,0.0,495.81,248.0,247.81,0.4998
+ORD-0185,2026-06-13,2026,Jun,2026-06,East,Technology,Monitor,Small Business,Retail,4,734.16,0.2,2349.31,1957.06,392.25,0.167
+ORD-0331,2026-06-14,2026,Jun,2026-06,West,Furniture,Bookshelf,Corporate,Online,10,113.45,0.0,1134.5,816.92,317.58,0.2799
+ORD-0125,2026-06-15,2026,Jun,2026-06,South,Technology,Monitor,Corporate,Online,6,856.94,0.0,5141.64,3239.86,1901.78,0.3699
+ORD-0265,2026-06-17,2026,Jun,2026-06,South,Technology,Printer,Small Business,Online,9,669.39,0.0,6024.51,4093.94,1930.57,0.3205
+ORD-0422,2026-06-17,2026,Jun,2026-06,South,Technology,Headphones,Consumer,Online,1,761.99,0.0,761.99,546.42,215.57,0.2829
+ORD-0453,2026-06-18,2026,Jun,2026-06,East,Office Supplies,Notebook,Corporate,Online,3,60.07,0.0,180.21,120.37,59.84,0.3321
+ORD-0266,2026-06-20,2026,Jun,2026-06,West,Office Supplies,Paper,Consumer,Online,8,40.53,0.0,324.24,219.42,104.82,0.3233
+ORD-0437,2026-06-20,2026,Jun,2026-06,South,Furniture,Desk,Consumer,Retail,3,390.51,0.05,1112.95,727.47,385.48,0.3464
+ORD-0379,2026-06-22,2026,Jun,2026-06,North,Office Supplies,Markers,Corporate,Retail,1,44.88,0.2,35.9,28.78,7.12,0.1983
+ORD-0082,2026-06-23,2026,Jun,2026-06,West,Technology,Laptop,Consumer,Online,10,169.42,0.0,1694.2,1229.06,465.14,0.2745
+ORD-0389,2026-06-26,2026,Jun,2026-06,East,Office Supplies,Stapler,Small Business,Online,5,30.89,0.0,154.45,97.66,56.79,0.3677
+ORD-0312,2026-06-29,2026,Jun,2026-06,North,Furniture,Office Chair,Consumer,Retail,10,60.65,0.2,485.2,442.52,42.68,0.088
+ORD-0283,2026-07-01,2026,Jul,2026-07,North,Technology,Mouse,Consumer,Retail,3,123.51,0.0,370.53,287.79,82.74,0.2233
+ORD-0244,2026-07-03,2026,Jul,2026-07,East,Office Supplies,Stapler,Corporate,Online,10,34.63,0.15,294.36,159.19,135.17,0.4592
+ORD-0393,2026-07-04,2026,Jul,2026-07,West,Office Supplies,Stapler,Consumer,Partner,9,27.98,0.15,214.05,134.2,79.85,0.373
+ORD-0432,2026-07-04,2026,Jul,2026-07,South,Technology,Printer,Consumer,Partner,3,480.89,0.15,1226.27,849.96,376.31,0.3069
+ORD-0292,2026-07-05,2026,Jul,2026-07,South,Furniture,Office Chair,Small Business,Retail,11,116.12,0.2,1021.86,990.8,31.06,0.0304
+ORD-0333,2026-07-06,2026,Jul,2026-07,East,Technology,Keyboard,Corporate,Online,12,446.48,0.1,4821.98,3784.41,1037.57,0.2152
+ORD-0041,2026-07-07,2026,Jul,2026-07,South,Technology,Keyboard,Small Business,Retail,11,113.01,0.0,1243.11,875.48,367.63,0.2957
+ORD-0338,2026-07-07,2026,Jul,2026-07,West,Technology,Printer,Corporate,Retail,10,436.68,0.05,4148.46,2953.4,1195.06,0.2881
+ORD-0171,2026-07-08,2026,Jul,2026-07,South,Technology,Headphones,Corporate,Retail,2,490.65,0.1,883.17,614.71,268.46,0.304
+ORD-0291,2026-07-08,2026,Jul,2026-07,East,Office Supplies,Notebook,Corporate,Retail,8,18.63,0.15,126.68,103.27,23.41,0.1848
+ORD-0081,2026-07-08,2026,Jul,2026-07,North,Technology,Monitor,Consumer,Retail,1,373.76,0.0,373.76,229.81,143.95,0.3851
+ORD-0289,2026-07-11,2026,Jul,2026-07,East,Furniture,Office Chair,Consumer,Online,6,218.53,0.15,1114.5,1087.35,27.15,0.0244
+ORD-0296,2026-07-13,2026,Jul,2026-07,South,Technology,Headphones,Small Business,Online,12,611.31,0.15,6235.36,4462.13,1773.23,0.2844
+ORD-0070,2026-07-14,2026,Jul,2026-07,East,Technology,Mouse,Consumer,Partner,7,646.06,0.1,4070.18,3394.83,675.35,0.1659
+ORD-0150,2026-07-15,2026,Jul,2026-07,South,Office Supplies,Pen Set,Small Business,Online,8,48.32,0.0,386.56,179.33,207.23,0.5361
+ORD-0368,2026-07-16,2026,Jul,2026-07,North,Furniture,Desk,Small Business,Online,9,151.97,0.2,1094.18,863.24,230.94,0.2111
+ORD-0321,2026-07-17,2026,Jul,2026-07,East,Technology,Printer,Small Business,Online,4,577.22,0.15,1962.55,1341.3,621.25,0.3166
+ORD-0221,2026-07-18,2026,Jul,2026-07,North,Technology,Mouse,Consumer,Partner,1,130.57,0.0,130.57,97.24,33.33,0.2553
+ORD-0388,2026-07-18,2026,Jul,2026-07,South,Technology,Mouse,Small Business,Online,6,512.18,0.15,2612.12,1818.15,793.97,0.304
+ORD-0059,2026-07-18,2026,Jul,2026-07,East,Technology,Laptop,Consumer,Online,7,789.23,0.15,4695.92,3714.72,981.2,0.2089
+ORD-0016,2026-07-18,2026,Jul,2026-07,North,Technology,Headphones,Small Business,Partner,4,216.38,0.1,778.97,658.22,120.75,0.155
+ORD-0085,2026-07-19,2026,Jul,2026-07,West,Office Supplies,Pen Set,Consumer,Online,6,59.45,0.05,338.87,193.89,144.98,0.4278
+ORD-0123,2026-07-19,2026,Jul,2026-07,North,Technology,Laptop,Small Business,Online,12,472.51,0.15,4819.6,3372.3,1447.3,0.3003
+ORD-0013,2026-07-22,2026,Jul,2026-07,North,Technology,Monitor,Corporate,Online,4,135.27,0.15,459.92,339.58,120.34,0.2617
+ORD-0372,2026-07-23,2026,Jul,2026-07,South,Office Supplies,Pen Set,Consumer,Online,3,77.01,0.15,196.38,128.07,68.31,0.3478
+ORD-0075,2026-07-25,2026,Jul,2026-07,North,Furniture,Filing Cabinet,Consumer,Online,6,423.06,0.2,2030.69,1631.54,399.15,0.1966
+ORD-0349,2026-07-26,2026,Jul,2026-07,West,Office Supplies,Paper,Consumer,Retail,7,72.3,0.1,455.49,296.41,159.08,0.3493
+ORD-0273,2026-07-26,2026,Jul,2026-07,North,Office Supplies,Folders,Small Business,Online,9,70.08,0.0,630.72,336.0,294.72,0.4673
+ORD-0322,2026-07-27,2026,Jul,2026-07,East,Technology,Keyboard,Small Business,Partner,5,798.41,0.2,3193.64,2668.9,524.74,0.1643
+ORD-0035,2026-07-27,2026,Jul,2026-07,West,Furniture,Filing Cabinet,Corporate,Partner,3,316.32,0.0,948.96,643.62,305.34,0.3218
+ORD-0495,2026-07-28,2026,Jul,2026-07,North,Office Supplies,Stapler,Consumer,Online,1,54.06,0.0,54.06,34.09,19.97,0.3694
+ORD-0462,2026-07-29,2026,Jul,2026-07,West,Technology,Headphones,Consumer,Retail,8,316.68,0.1,2280.1,1838.57,441.53,0.1936
+ORD-0138,2026-07-29,2026,Jul,2026-07,West,Technology,Headphones,Consumer,Retail,3,456.92,0.2,1096.61,1006.68,89.93,0.082
+ORD-0024,2026-07-29,2026,Jul,2026-07,South,Technology,Laptop,Small Business,Retail,10,533.07,0.05,5064.17,4050.25,1013.92,0.2002
+ORD-0358,2026-07-31,2026,Jul,2026-07,East,Furniture,Filing Cabinet,Corporate,Online,7,78.72,0.0,551.04,456.6,94.44,0.1714
+ORD-0097,2026-08-02,2026,Aug,2026-08,East,Office Supplies,Folders,Corporate,Partner,3,51.99,0.05,148.17,73.08,75.09,0.5068
+ORD-0080,2026-08-02,2026,Aug,2026-08,South,Technology,Printer,Small Business,Retail,4,349.42,0.0,1397.68,888.16,509.52,0.3645
+ORD-0424,2026-08-03,2026,Aug,2026-08,North,Office Supplies,Pen Set,Consumer,Retail,8,38.46,0.05,292.3,189.81,102.49,0.3506
+ORD-0169,2026-08-03,2026,Aug,2026-08,North,Office Supplies,Notebook,Small Business,Online,12,7.54,0.0,90.48,53.0,37.48,0.4142
+ORD-0044,2026-08-03,2026,Aug,2026-08,West,Office Supplies,Paper,Consumer,Retail,11,66.5,0.0,731.5,492.22,239.28,0.3271
+ORD-0211,2026-08-04,2026,Aug,2026-08,East,Technology,Monitor,Small Business,Retail,11,672.68,0.0,7399.48,5562.47,1837.01,0.2483
+ORD-0356,2026-08-07,2026,Aug,2026-08,West,Office Supplies,Pen Set,Corporate,Retail,10,54.56,0.0,545.6,300.29,245.31,0.4496
+ORD-0106,2026-08-08,2026,Aug,2026-08,East,Office Supplies,Stapler,Corporate,Retail,7,64.9,0.0,454.3,259.02,195.28,0.4298
+ORD-0099,2026-08-09,2026,Aug,2026-08,West,Office Supplies,Paper,Small Business,Retail,8,30.1,0.2,192.64,110.72,81.92,0.4252
+ORD-0373,2026-08-10,2026,Aug,2026-08,East,Technology,Keyboard,Consumer,Online,11,193.63,0.0,2129.93,1366.99,762.94,0.3582
+ORD-0223,2026-08-11,2026,Aug,2026-08,West,Furniture,Filing Cabinet,Corporate,Online,3,550.48,0.1,1486.3,1035.91,450.39,0.303
+ORD-0267,2026-08-11,2026,Aug,2026-08,North,Office Supplies,Pen Set,Consumer,Retail,12,21.57,0.05,245.9,169.1,76.8,0.3123
+ORD-0330,2026-08-13,2026,Aug,2026-08,East,Office Supplies,Notebook,Corporate,Partner,7,60.13,0.1,378.82,241.98,136.84,0.3612
+ORD-0113,2026-08-19,2026,Aug,2026-08,South,Office Supplies,Paper,Corporate,Online,11,39.31,0.2,345.93,209.16,136.77,0.3954
+ORD-0257,2026-08-23,2026,Aug,2026-08,West,Technology,Laptop,Corporate,Online,10,854.33,0.15,7261.81,5159.84,2101.97,0.2895
+ORD-0058,2026-08-23,2026,Aug,2026-08,North,Furniture,Filing Cabinet,Consumer,Online,6,523.18,0.2,2511.26,2383.01,128.25,0.0511
+ORD-0208,2026-08-24,2026,Aug,2026-08,North,Office Supplies,Markers,Consumer,Online,4,37.02,0.1,133.27,91.29,41.98,0.315
+ORD-0240,2026-08-27,2026,Aug,2026-08,West,Technology,Laptop,Consumer,Partner,9,643.4,0.0,5790.6,3910.12,1880.48,0.3247
+ORD-0055,2026-08-27,2026,Aug,2026-08,West,Office Supplies,Pen Set,Consumer,Online,3,9.43,0.0,28.29,18.56,9.73,0.3439
+ORD-0405,2026-08-29,2026,Aug,2026-08,East,Furniture,Filing Cabinet,Consumer,Retail,11,459.26,0.1,4546.67,3764.52,782.15,0.172
+ORD-0445,2026-08-29,2026,Aug,2026-08,North,Office Supplies,Folders,Consumer,Online,8,36.35,0.1,261.72,190.57,71.15,0.2719
+ORD-0401,2026-08-30,2026,Aug,2026-08,West,Office Supplies,Markers,Consumer,Retail,4,44.54,0.1,160.34,115.91,44.43,0.2771
+ORD-0480,2026-09-02,2026,Sep,2026-09,North,Office Supplies,Stapler,Consumer,Online,8,48.23,0.05,366.55,264.61,101.94,0.2781
+ORD-0319,2026-09-04,2026,Sep,2026-09,West,Technology,Monitor,Consumer,Online,11,843.22,0.15,7884.11,6326.85,1557.26,0.1975
+ORD-0463,2026-09-05,2026,Sep,2026-09,East,Technology,Monitor,Small Business,Online,6,134.21,0.0,805.26,468.12,337.14,0.4187
+ORD-0254,2026-09-07,2026,Sep,2026-09,South,Furniture,Bookshelf,Corporate,Retail,5,286.03,0.0,1430.15,1185.45,244.7,0.1711
+ORD-0251,2026-09-08,2026,Sep,2026-09,East,Office Supplies,Pen Set,Small Business,Retail,12,36.21,0.1,391.07,219.24,171.83,0.4394
+ORD-0204,2026-09-08,2026,Sep,2026-09,East,Furniture,Table,Corporate,Retail,11,170.94,0.0,1880.34,1282.51,597.83,0.3179
+ORD-0012,2026-09-14,2026,Sep,2026-09,South,Furniture,Desk,Consumer,Retail,11,296.57,0.0,3262.27,2066.47,1195.8,0.3666
+ORD-0069,2026-09-17,2026,Sep,2026-09,South,Office Supplies,Folders,Corporate,Retail,4,23.4,0.0,93.6,48.85,44.75,0.4781
+ORD-0426,2026-09-17,2026,Sep,2026-09,North,Furniture,Filing Cabinet,Corporate,Online,4,117.37,0.05,446.01,298.27,147.74,0.3312
+ORD-0231,2026-09-21,2026,Sep,2026-09,South,Office Supplies,Pen Set,Corporate,Online,5,76.11,0.15,323.47,263.07,60.4,0.1867
+ORD-0172,2026-09-21,2026,Sep,2026-09,East,Office Supplies,Stapler,Consumer,Online,8,75.53,0.1,543.82,329.32,214.5,0.3944
+ORD-0493,2026-09-22,2026,Sep,2026-09,North,Office Supplies,Stapler,Consumer,Retail,3,62.18,0.1,167.89,126.43,41.46,0.2469
+ORD-0355,2026-09-24,2026,Sep,2026-09,North,Technology,Laptop,Consumer,Partner,4,867.68,0.15,2950.11,2280.49,669.62,0.227
+ORD-0378,2026-09-24,2026,Sep,2026-09,West,Furniture,Bookshelf,Consumer,Partner,1,505.14,0.1,454.63,391.95,62.68,0.1379
+ORD-0166,2026-09-24,2026,Sep,2026-09,West,Office Supplies,Markers,Corporate,Online,7,24.88,0.05,165.45,107.72,57.73,0.3489
+ORD-0486,2026-09-24,2026,Sep,2026-09,East,Office Supplies,Paper,Corporate,Online,3,60.4,0.0,181.2,98.78,82.42,0.4549
+ORD-0173,2026-09-26,2026,Sep,2026-09,North,Technology,Monitor,Consumer,Online,12,722.79,0.05,8239.81,5215.45,3024.36,0.367
+ORD-0060,2026-09-30,2026,Sep,2026-09,West,Office Supplies,Markers,Consumer,Retail,9,70.94,0.1,574.61,384.49,190.12,0.3309
