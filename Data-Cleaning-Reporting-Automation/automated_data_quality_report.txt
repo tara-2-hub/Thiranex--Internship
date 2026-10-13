@@ -1,0 +1,12 @@
+THIRANEX INTERNSHIP — TASK 4: DATA CLEANING & REPORTING AUTOMATION
+
+Rows before cleaning: 332
+Duplicate rows removed: 12
+Rows after cleaning: 320
+Missing cells before imputation: 95
+Missing cells after cleaning: 0
+Total revenue: ₹1,034,822.47
+Top region: West
+Top product: Laptop
+
+Dataset is synthetic demonstration data.
